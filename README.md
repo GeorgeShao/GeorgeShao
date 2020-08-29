@@ -13,7 +13,7 @@
 <a href="https://github.com/georgeshao">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshao&layout=compact&hide=html" />
 </a>
-&nbsp
+
 <a href="https://github.com/georgeshao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgeshao&show_icons=true" />
 </a>
