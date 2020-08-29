@@ -9,8 +9,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshao&layout=compact&hide=html" alt="georgeshao" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgeshao&show_icons=true" alt="georgeshao" /></p>
+<p align="left">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshao&layout=compact&hide=html" alt="georgeshao" /></p>
 
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgeshao&show_icons=true" alt="georgeshao" /></p>
+</p>
