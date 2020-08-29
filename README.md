@@ -12,5 +12,5 @@
 
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeshao&layout=compact&hide=html" alt="georgeshao" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgeshao&show_icons=true" alt="georgeshao" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgeshao&show_icons=true&theme=gradient" alt="georgeshao" />
 </p>
