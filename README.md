@@ -15,5 +15,6 @@
 </a>
 
 <a href="https://github.com/georgeshao">
+  &nbsp
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=georgeshao&show_icons=true" />
 </a>
