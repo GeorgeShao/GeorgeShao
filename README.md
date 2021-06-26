@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Shao</h1>
-<h3 align="center">An aspiring developer from Toronto, Canada</h3>
+<h3 align="center">A software engineer from Toronto, Canada</h3>
+<h4 align="center">Software Engineering Student @ University of Waterloo</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshao" alt="georgeshao" /> </p>
 
