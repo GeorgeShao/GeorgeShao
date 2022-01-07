@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Shao</h1>
 <h3 align="center">Software Engineering Student @ University of Waterloo</h3>
-<h3 align="center">9x Hackathon Winner & Venture Capital Grantee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgeshao" alt="georgeshao" /> </p>
 
