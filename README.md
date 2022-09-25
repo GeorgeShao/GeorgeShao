@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm George Shao</h1>
 <h3 align="center">Computer Science @ University of Waterloo</h3>
 
+[GeorgeShao123@gmail.com](mailto:GeorgeShao123@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/georgeshao/)
+
 ### Experience
 - Software Engineering Intern @ Drop (Backend/Production)
 - Software Engineering Intern @ Rapid App (Frontend)
