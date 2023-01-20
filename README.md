@@ -6,7 +6,8 @@
 [LinkedIn](https://www.linkedin.com/in/georgeshao/)
 
 ### Experience
-- Software Engineering Intern @ Drop (Backend/Production)
+- Software Engineering Intern @ ETHGlobal (Full Stack) [ONGOING]
+- Software Engineering Intern @ Drop (Backend)
 - Software Engineering Intern @ Rapid App (Frontend)
 
 ### Projects
