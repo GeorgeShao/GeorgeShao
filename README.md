@@ -1,5 +1,5 @@
 # 👋 Hi, I'm George Shao 
-## Studying Computer Science @ University of Waterloo
+### Studying Computer Science @ University of Waterloo
 
 Read my engineering blog or get in touch with me at [www.georges.zip](https://georges.zip)
 
