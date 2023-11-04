@@ -2,7 +2,9 @@
 
 I study Computer Science @ University of Waterloo.
 
-Read my engineering blog or get in touch with me at [www.georges.zip](https://georges.zip).
+Read my engineering blog at [www.georges.zip](https://georges.zip)
+
+Get in touch with me at [GeorgeShao123@gmail.com](mailto:GeorgeShao123@gmail.com)
 
 Most of my work is in private repositories.
 
