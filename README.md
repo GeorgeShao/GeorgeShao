@@ -9,3 +9,9 @@ Get in touch with me at [GeorgeShao123@gmail.com](mailto:GeorgeShao123@gmail.com
 Most of my work is in private repositories.
 
 <img src="https://komarev.com/ghpvc/?username=georgeshao" alt="georgeshao" />
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
