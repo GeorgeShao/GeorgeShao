@@ -2,7 +2,7 @@
 
 I study Computer Science @ University of Waterloo.
 
-I've worked at Drop and ETHGlobal, and I'll be joining X (Twitter) in Winter 2025.
+Currently a SWE Intern @ X (Twitter) on the Storage team.
 
 Read my engineering blog at [www.shao.zip](https://shao.zip)
 
