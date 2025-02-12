@@ -13,4 +13,3 @@ Most of my work is in private repositories, but I enjoy contributing to open-sou
 <img src="https://komarev.com/ghpvc/?username=georgeshao" alt="georgeshao" />
 
 ![](https://raw.githubusercontent.com/GeorgeShao/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/GeorgeShao/github-stats/master/generated/languages.svg)
