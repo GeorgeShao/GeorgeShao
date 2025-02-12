@@ -1,8 +1,8 @@
 # 👋 Hi, I'm George Shao 
 
-I study Computer Science @ University of Waterloo.
+I study **Computer Science @ University of Waterloo.**
 
-Currently a SWE Intern @ X (Twitter) on the Storage team.
+Currently a **SWE Intern @ X (Twitter)** on the **Storage team**.
 
 Read my engineering blog at [www.shao.zip](https://shao.zip)
 
