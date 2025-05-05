@@ -2,7 +2,7 @@
 
 I study **Computer Science @ University of Waterloo.**
 
-Currently a **SWE Intern @ X (Twitter)** on the **Storage team**.
+Currently SWE @ETHGlobal, Prev @X
 
 Read my engineering blog at [www.shao.zip](https://shao.zip)
 
