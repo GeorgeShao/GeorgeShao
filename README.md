@@ -4,7 +4,7 @@ I study **Computer Science @ University of Waterloo.**
 
 Currently SWE @ETHGlobal, Prev @X
 
-Read my engineering blog at [www.shao.zip](https://shao.zip)
+Find out more about me at [www.shao.zip](https://shao.zip)
 
 Get in touch with me at [GeorgeShao123@gmail.com](mailto:GeorgeShao123@gmail.com)
 
