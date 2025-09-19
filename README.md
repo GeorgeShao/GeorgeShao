@@ -2,7 +2,7 @@
 
 I study **Computer Science @ University of Waterloo.**
 
-Currently SWE @[Maxima](https://maxima.ai/), Prev @X, @ETHGlobal
+Currently SWE [@Maxima](https://maxima.ai/), Prev @X, [@ETHGlobal](https://ethglobal.com/)
 
 Find out more about me at [www.shao.zip](https://shao.zip)
 
