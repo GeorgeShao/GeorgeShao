@@ -2,7 +2,7 @@
 
 I study **Computer Science @ University of Waterloo.**
 
-Currently SWE Intern [@Maxima](https://maxima.ai/), Prev [@X](https://x.com/), [@ETHGlobal](https://ethglobal.com/)
+Software Engineer | Joining [Tesla](https://tesla.com/) in 2026 | Prev @ [X](https://x.com) ([xAI](https://x.ai) / Twitter), [ETHGlobal](https://ethglobal.com/), [@Maxima](https://maxima.ai/) | CS @ UWaterloo
 
 Find out more about me at [www.shao.zip](https://shao.zip)
 
