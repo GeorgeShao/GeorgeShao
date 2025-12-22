@@ -3,7 +3,9 @@
 I study **Computer Science @ University of Waterloo.**
 
 Software Engineer
+
 Joining [Tesla](https://tesla.com/) in 2026
+
 Prev @ [X](https://x.com) ([xAI](https://x.ai) / Twitter), [ETHGlobal](https://ethglobal.com/), [Maxima](https://maxima.ai/)
 
 Find out more about me at [www.shao.zip](https://shao.zip)
