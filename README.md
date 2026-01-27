@@ -4,7 +4,7 @@ I study **Computer Science @ University of Waterloo.**
 
 Software Engineer
 
-Joining [Tesla](https://tesla.com/) in 2026
+Joining [Tesla](https://tesla.com/) in June
 
 Prev @ [X](https://x.com) / [xAI](https://x.ai), [ETHGlobal](https://ethglobal.com/), [Maxima](https://maxima.ai/)
 
