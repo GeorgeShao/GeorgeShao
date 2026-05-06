@@ -1,12 +1,12 @@
 # 👋 Hi, I'm George Shao 
 
-I study **Computer Science @ University of Waterloo.**
+You can reach me by email at GeorgeShao123@gmail.com
 
-Software Engineer
+I graduated from University of Waterloo Computer Science in 2026.
 
 Joining [Tesla](https://tesla.com/) in June
 
-Prev @ [X](https://x.com) / [xAI](https://x.ai), [ETHGlobal](https://ethglobal.com/), [Maxima](https://maxima.ai/)
+Prev @ [xAI](https://x.ai) / [X](https://x.com), [ETHGlobal](https://ethglobal.com/), [Maxima](https://maxima.ai/)
 
 Find out more about me at [www.shao.zip](https://shao.zip)
 
