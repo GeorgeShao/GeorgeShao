@@ -1,10 +1,10 @@
 # 👋 Hi, I'm George Shao 
 
+Software Engineer @ [Tesla](https://tesla.com/)
+
 You can reach me by email at GeorgeShao123@gmail.com
 
 I graduated from University of Waterloo Computer Science in 2026.
-
-Joining [Tesla](https://tesla.com/) in June
 
 Prev @ [xAI](https://x.ai) / [X](https://x.com), [ETHGlobal](https://ethglobal.com/), [Maxima](https://maxima.ai/)
 
